@@ -2,7 +2,7 @@
   "name": "AlphaQuant",
   "description": "AI agent specialising in quantitative trading strategy analysis using the Impulse Flow Alpha pattern (Impulse -> Consolidation -> Breakout) on BTC-USDT daily data.",
   "version": "1.1.0",
-  "url": "https://dural-ray-irretrievable.ngrok-free.dev",
+  "url": "https://alphaquant-agent-2.onrender.com",
   "defaultInputModes": ["text/plain"],
   "defaultOutputModes": ["text/plain"],
   "capabilities": {
